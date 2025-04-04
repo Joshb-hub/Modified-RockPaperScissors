@@ -6,7 +6,7 @@ A sleek and interactive **Rock Paper Scissors** web game built using **HTML**, *
 
 ## Live Demo
 Click here to play the modified version of the previous rock paper scissors game.
-![Modified version of the Rock Paper Scissors](https://joshb-hub.github.io/Modified-RockPaperScissors/)
+[Modified version of the Rock Paper Scissors](https://joshb-hub.github.io/Modified-RockPaperScissors/)
 
 ## Screenshots
 ![RockPaperScissors Screenshot](start.png)
