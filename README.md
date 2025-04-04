@@ -18,8 +18,9 @@ A sleek and interactive **Rock Paper Scissors** web game built using **HTML**, *
 ## 📸 Game Preview
 
 | Start | Draw | User Win | Computer Win | Rounds | Rounds Win |
-|-------|----------|-------------| --------------- | --------- | -------------------- |
-| ![start](Screenshot%22025-04-04%2175321.png) | ![draw](Screenshot%22025-04-04%2182707.png) | ![userwin](Screenshot%22025-04-04%2182454.png) | ![computerwin](Screenshot%22025-04-04%2182728.png) | ![rounds](Screenshot%22025-04-04%2182743.png) | ![roundswin](Screenshot%22025-04-04%2182804.png)
+|-------|------|---------|--------------|--------|------------|
+| ![Start](start.png) | ![Draw](draw.png) | ![User Win](userwin.png) | ![Computer Win](computerwin.png) | ![Rounds](rounds.png) | ![Rounds Win](roundswin.png) |
+
 
 ---
 
